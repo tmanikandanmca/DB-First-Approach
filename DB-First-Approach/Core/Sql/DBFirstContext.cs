@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Core.Sql.Entities;
+using Microsoft.EntityFrameworkCore;
  
 
 namespace Core.Sql;
@@ -10,4 +11,10 @@ public class DBFirstContext:DbContext
 	{
 			
 	}
+    public DbSet<StockExchangeEntity> StockExchanges { get; set; }
+
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.ApplyConfigurationsFromAssembly(typeof(DBFirstContext).Assembly);
+    }
 }
