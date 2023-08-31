@@ -1,0 +1,14 @@
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\bin\Debug\net7.0\Sample-Basic.exe
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\bin\Debug\net7.0\Sample-Basic.deps.json
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\bin\Debug\net7.0\Sample-Basic.runtimeconfig.json
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\bin\Debug\net7.0\Sample-Basic.dll
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\bin\Debug\net7.0\Sample-Basic.pdb
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\obj\Debug\net7.0\Sample-Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\obj\Debug\net7.0\Sample-Basic.AssemblyInfoInputs.cache
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\obj\Debug\net7.0\Sample-Basic.AssemblyInfo.cs
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\obj\Debug\net7.0\Sample-Basic.csproj.CoreCompileInputs.cache
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\obj\Debug\net7.0\Sample-Basic.dll
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\obj\Debug\net7.0\refint\Sample-Basic.dll
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\obj\Debug\net7.0\Sample-Basic.pdb
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\obj\Debug\net7.0\Sample-Basic.genruntimeconfig.cache
+C:\Users\tmani\source\repos\DB-First-Approach\Sample-Basic\Sample-Basic\obj\Debug\net7.0\ref\Sample-Basic.dll
